@@ -1,0 +1,1 @@
+Neste entrega coloco em pratica alguns comandos bem importante do git , e armazeno esta informacoes no repositorio remoto.
